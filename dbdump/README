@@ -1,0 +1,13 @@
+MySQL:
+
+db-dump is a dump with a bit of test data.
+
+raw-dump is just the tables and configuration information.
+
+The others are patches, feed these to your db's for upgrading
+from prior versions of gcdb.
+
+PostgreSQL:
+
+raw.pgsql is just for initializing your db for the first time.
+          This script will destroy all previous data, if any. 

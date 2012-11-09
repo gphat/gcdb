@@ -1,0 +1,19 @@
+BODY {
+	FONT-FAMILY: Arial, Helvetica, Geneva;
+	BACKGROUND-COLOR: #818181;
+}
+TD.function {
+	FONT-WEIGHT: bold;
+}	
+TD.args {
+	FONT-WEIGHT: bold;
+	COLOR: blue;
+}
+TD.rets {
+	FONT-WEIGHT: bold;
+	COLOR: green;
+}
+TD.desc {
+	FONT-WEIGHT: bold;
+	COLOR: white;
+}

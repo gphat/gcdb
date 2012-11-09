@@ -1,0 +1,12 @@
+gcdb 1.1.6 
+
+Although a minor version, this release contains a few vital API changes:
+  * DB interface supporting: MySQL and Postgresql
+  * Greatly enhanced language support
+
+This release is to get some fresh source out instead of by CVS and to
+revive the project a bit.  There are bound to be bugs, please post them
+in the bug tracker!
+
+Instructions on how to setup MySQL and Postgresql to work with gcdb
+is now on the website:  http://gcdb.sourceforge.net
